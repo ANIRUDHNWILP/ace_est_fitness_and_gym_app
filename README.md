@@ -1,6 +1,4 @@
 # ace_est_fitness_and_gym_app
-Of course. Here is a complete README.md file for the Flask application. You can save this content directly into a file named README.md in your project's root directory (fitness_app/).
-
 ACEestFitness and Gym - Web Tracker
 A simple web application to log and view fitness workouts, built with Python and the Flask web framework. This project converts a basic desktop Tkinter application into a web-based version, making it accessible from any browser.
 
